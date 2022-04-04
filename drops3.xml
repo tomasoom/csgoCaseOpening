@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfChroma2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Chroma2>
+    <Arma>Famas | Djinn</Arma>
+    <Colorr>Pink</Colorr>
+    <Estado>Factory New</Estado>
+    <Desgaste>0.0682125668172783</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>Negev | Man-o'-War</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Minimal Wear</Estado>
+    <Desgaste>0.12964360362833532</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>AWP | Worm God</Arma>
+    <Colorr>Purple</Colorr>
+    <Estado>Minimal Wear</Estado>
+    <Desgaste>0.13258818025821267</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>Ak-47 | Elite Build</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Minimal Wear</Estado>
+    <Desgaste>0.12562661251780885</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>MP7 | Armor Core</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Battle Scarred</Estado>
+    <Desgaste>0.505617400661864</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>Negev | Man-o'-War</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Minimal Wear</Estado>
+    <Desgaste>0.12426839518093895</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>Negev | Man-o'-War</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Battle Scarred</Estado>
+    <Desgaste>0.520448421910614</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>MP7 | Armor Core</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Battle Scarred</Estado>
+    <Desgaste>0.51365909918847452</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>MP7 | Armor Core</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Battle Scarred</Estado>
+    <Desgaste>0.52149542283336414</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>Desert Eagle | Bronze Deco</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Well Worn</Estado>
+    <Desgaste>0.39320456611141774</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>AWP | Worm God</Arma>
+    <Colorr>Purple</Colorr>
+    <Estado>Factory New</Estado>
+    <Desgaste>0.058713727448467978</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>Sawed Off | Origami</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Field Tested</Estado>
+    <Desgaste>0.24933569805665673</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>Sawed Off | Origami</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Field Tested</Estado>
+    <Desgaste>0.28184703698933455</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>UMP-45 | Grand Prix</Arma>
+    <Colorr>Purple</Colorr>
+    <Estado>Factory New</Estado>
+    <Desgaste>0.060002227504738714</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>Desert Eagle | Bronze Deco</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Minimal Wear</Estado>
+    <Desgaste>0.12484814579358702</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>Desert Eagle | Bronze Deco</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Well Worn</Estado>
+    <Desgaste>0.39523667708748794</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>CZ75-Auto | Pole Position</Arma>
+    <Colorr>Purple</Colorr>
+    <Estado>Minimal Wear</Estado>
+    <Desgaste>0.13193410522394539</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>MP7 | Armor Core</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Battle Scarred</Estado>
+    <Desgaste>0.4426878058550357</Desgaste>
+    <StatTrak>true</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>CZ75-Auto | Pole Position</Arma>
+    <Colorr>Purple</Colorr>
+    <Estado>Factory New</Estado>
+    <Desgaste>0.057478911493662244</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>UMP-45 | Grand Prix</Arma>
+    <Colorr>Purple</Colorr>
+    <Estado>Factory New</Estado>
+    <Desgaste>0.06364797176497429</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>MP7 | Armor Core</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Battle Scarred</Estado>
+    <Desgaste>0.47749137645470507</Desgaste>
+    <StatTrak>true</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>MP7 | Armor Core</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Battle Scarred</Estado>
+    <Desgaste>0.51000980760436965</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>Desert Eagle | Bronze Deco</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Well Worn</Estado>
+    <Desgaste>0.38864944249794325</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>CZ75-Auto | Pole Position</Arma>
+    <Colorr>Purple</Colorr>
+    <Estado>Factory New</Estado>
+    <Desgaste>0.063732247289145491</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>Negev | Man-o'-War</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Field Tested</Estado>
+    <Desgaste>0.2605804600522762</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>P250 | Valence</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Field Tested</Estado>
+    <Desgaste>0.23948157540964038</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>Negev | Man-o'-War</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Battle Scarred</Estado>
+    <Desgaste>0.47293222097350851</Desgaste>
+    <StatTrak>true</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>Ak-47 | Elite Build</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Well Worn</Estado>
+    <Desgaste>0.39194490102675972</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>MP7 | Armor Core</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Minimal Wear</Estado>
+    <Desgaste>0.12676422054728689</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>Sawed Off | Origami</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Well Worn</Estado>
+    <Desgaste>0.38878413150961705</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>Ak-47 | Elite Build</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Battle Scarred</Estado>
+    <Desgaste>0.54505448957209224</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>Negev | Man-o'-War</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Well Worn</Estado>
+    <Desgaste>0.3846839414419066</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>P250 | Valence</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Battle Scarred</Estado>
+    <Desgaste>0.5134873209118318</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>MP7 | Armor Core</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Well Worn</Estado>
+    <Desgaste>0.395072606008068</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>Ak-47 | Elite Build</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Well Worn</Estado>
+    <Desgaste>0.39502358708764596</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>Negev | Man-o'-War</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Field Tested</Estado>
+    <Desgaste>0.2695093530786733</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>Famas | Djinn</Arma>
+    <Colorr>Pink</Colorr>
+    <Estado>Factory New</Estado>
+    <Desgaste>0.067738946307328976</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>Negev | Man-o'-War</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Well Worn</Estado>
+    <Desgaste>0.39234811058377295</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>CZ75-Auto | Pole Position</Arma>
+    <Colorr>Purple</Colorr>
+    <Estado>Factory New</Estado>
+    <Desgaste>0.05998407440259311</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>Sawed Off | Origami</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Well Worn</Estado>
+    <Desgaste>0.3848308315057451</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>AWP | Worm God</Arma>
+    <Colorr>Purple</Colorr>
+    <Estado>Factory New</Estado>
+    <Desgaste>0.060442428570446759</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>UMP-45 | Grand Prix</Arma>
+    <Colorr>Purple</Colorr>
+    <Estado>Factory New</Estado>
+    <Desgaste>0.059807243081651279</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>MAC-10 | Neon Rider</Arma>
+    <Colorr>Red</Colorr>
+    <Estado>Factory New</Estado>
+    <Desgaste>0.069664382338367581</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>MP7 | Armor Core</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Field Tested</Estado>
+    <Desgaste>0.24646679118111114</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>Negev | Man-o'-War</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Field Tested</Estado>
+    <Desgaste>0.27230338634099038</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>Desert Eagle | Bronze Deco</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Battle Scarred</Estado>
+    <Desgaste>0.54020331540154454</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>MP7 | Armor Core</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Battle Scarred</Estado>
+    <Desgaste>0.48123167505545156</Desgaste>
+    <StatTrak>true</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>MP7 | Armor Core</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Well Worn</Estado>
+    <Desgaste>0.39601174336206713</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>Negev | Man-o'-War</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Minimal Wear</Estado>
+    <Desgaste>0.12263997583307325</Desgaste>
+    <StatTrak>false</StatTrak>
+  </Chroma2>
+  <Chroma2>
+    <Arma>Sawed Off | Origami</Arma>
+    <Colorr>Blue</Colorr>
+    <Estado>Battle Scarred</Estado>
+    <Desgaste>0.48198941076267021</Desgaste>
+    <StatTrak>true</StatTrak>
+  </Chroma2>
+</ArrayOfChroma2>
